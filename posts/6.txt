@@ -1,0 +1,5 @@
+Position: Senior / Lead Full Stack JavaScript Developer 
+Country: Netherlands 
+Company: LINKIT 
+Skills: ['JavaScript', 'AngularJS', 'Node.js', 'TypeScript', 'TDD', 'Vue.js', 'React'] 
+More: https://relocate.me/the-netherlands/utrecht/linkit/senior-lead-full-stack-javascript-developer-7911 

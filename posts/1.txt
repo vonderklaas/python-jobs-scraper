@@ -1,0 +1,5 @@
+Position: Frontend Engineer 
+Country: Netherlands 
+Company: Reaktor 
+Skills: ['JavaScript', 'HTML', 'TypeScript', 'React', 'Vue'] 
+More: https://relocate.me/the-netherlands/amsterdam/reaktor/frontend-engineer-7976 

@@ -1,0 +1,5 @@
+Position: Senior Full Stack Engineer - Internal Tools 
+Country: Estonia 
+Company: Veriff 
+Skills: ['PostgreSQL', 'ReactJS', 'TypeScript', 'Vue.js', 'Kubernetes', 'GraphQL', 'NestJS'] 
+More: https://relocate.me/estonia/tallinn/veriff/senior-full-stack-engineer-internal-tools-8859 

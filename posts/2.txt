@@ -1,0 +1,5 @@
+Position: Senior Frontend Engineer 
+Country: Germany 
+Company: Zero to One Search 
+Skills: ['AngularJS', 'ReactJS', 'Vue.js', 'Svelte'] 
+More: https://relocate.me/germany/munich/zero-to-one-search/senior-frontend-engineer-8801 

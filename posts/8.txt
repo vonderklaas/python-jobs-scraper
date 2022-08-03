@@ -1,0 +1,5 @@
+Position: Solutions Architect 
+Country: Canada 
+Company: Global Skills Hub 
+Skills: ['PHP', 'Java', 'JavaScript', 'Python', 'SQL', 'JSON', 'Ruby', 'XML', 'Perl', 'REST', 'SOAP', '.NET', 'C++'] 
+More: https://relocate.me/canada/toronto/global-skills-hub/solutions-architect-8680 
