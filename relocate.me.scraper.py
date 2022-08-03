@@ -6,6 +6,7 @@ domain_name = 'https://relocate.me'
 print('Welcome to Jobs scraper!')
 
 desired_skill = input('Enter your strongest skill: ')
+is_write = input('Save jobs in separate files? [y/n]: ').lower()
 
 print('I am looking for matching jobs!')
 
@@ -25,13 +26,14 @@ def find_jobs():
         for skill in skills_object:
             skills.append(skill.text)
 
-        # Write to file
-        with open(f'posts/{index}.txt', 'w') as file:
-            file.write(f'Position: {position} \n')
-            file.write(f'Country: {country} \n')
-            file.write(f'Company: {company} \n')
-            file.write(f'Skills: {skills} \n')
-            file.write(f'More: {domain_name + more} \n')
+        if is_write:
+            # Write to file
+            with open(f'posts/{index}.txt', 'w') as file:
+                file.write(f'Position: {position} \n')
+                file.write(f'Country: {country} \n')
+                file.write(f'Company: {company} \n')
+                file.write(f'Skills: {skills} \n')
+                file.write(f'More: {domain_name + more} \n')
 
         print(f'''
             Position: {position}
