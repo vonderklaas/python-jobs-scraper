@@ -26,7 +26,7 @@ def find_jobs():
         for skill in skills_object:
             skills.append(skill.text)
 
-        if is_write:
+        if is_write == 'y':
             # Write to file
             with open(f'posts/{index}.txt', 'w') as file:
                 file.write(f'Position: {position} \n')
