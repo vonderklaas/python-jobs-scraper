@@ -1,5 +1,0 @@
-Position: Software Engineer, React Web [Merlogi] 
-Country: Japan 
-Company: Mercari 
-Skills: ['JavaScript', 'CSS', 'HTML', 'Vue.js', 'React', 'Angular', 'Next.js'] 
-More: https://relocate.me/japan/tokyo/mercari/software-engineer-react-web-merlogi--8171 

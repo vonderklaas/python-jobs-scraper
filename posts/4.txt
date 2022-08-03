@@ -1,5 +1,0 @@
-Position: Senior Frontend Engineer (React/Vue) 
-Country: Japan 
-Company: HENNGE 
-Skills: ['TypeScript', 'React', 'Vue'] 
-More: https://relocate.me/japan/tokyo/hennge/senior-frontend-engineer-react-vue-8684 

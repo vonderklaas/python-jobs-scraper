@@ -1,5 +1,0 @@
-Position: React Native Developer (Freelance) 
-Country: Remote 
-Company: APC 
-Skills: ['JavaScript', 'CSS', 'REST', 'TypeScript', 'Redux', 'React Native'] 
-More: https://relocate.me/remote/remote/apc/react-native-developer-freelance-8911 

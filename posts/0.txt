@@ -1,5 +1,0 @@
-Position: Frontend Engineer 
-Country: Japan 
-Company: PayPay 
-Skills: ['JavaScript', 'AngularJS', 'TypeScript', 'Webpack', 'Vue.js', 'React'] 
-More: https://relocate.me/japan/tokyo/paypay/frontend-engineer-8365 
